@@ -23,11 +23,16 @@ Technically you could run it on a legit file server - but **I wouldn't recommend
 	    commands you can run while in the group server. Commands are in the following format COMMAND;var1;var2 etc.
 
 ############# FILE SERVER INSTRUCTIONS ###############
+
     Step 1: Run the File_Server code either by pressing play or typing in the terminal the following command "python3 File_Server.py"
+    
     Step 2: Once the file server is up and running, run the File_Client in a new window by either pressing play or typing the following command in the 
 	    terminal "python3 Client_Code.py"
+     
     Step 3: Once the client is connected to the server, press enter, then type the command "help" and press enter to show the different 
 	    commands you can run while in the file_server. Commands are in the following format COMMAND;var1;var2 etc.
+
+     
 
 	Make sure to change FILE_STORAGE_PATH = 'D:\\CryptoCode\\file_storage' (line11) in File_Operations.py to a path where you want your files uploaded.
 

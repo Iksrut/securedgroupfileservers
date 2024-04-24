@@ -1,6 +1,9 @@
 # securedgroupfileservers
 Final project for Applied Cryptography course.
 
+YOU NEED TO GENERATE YOUR OWN CERTIFICATE FOR THE APP TO WORK.
+
+
 The system is somewhat secure.
 data.json servers as a centralized database.
 

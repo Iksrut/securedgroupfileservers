@@ -12,6 +12,7 @@ use san.caf and run the line below for loopback valid certificate
 
 
 The system is somewhat secure.
+
 data.json servers as a centralized database.
 
 The group server performs operations on users, tokens, and groups.

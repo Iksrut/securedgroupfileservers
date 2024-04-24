@@ -14,6 +14,7 @@ Technically you could run it on a legit file server - but **I wouldn't recommend
 
 
 ############# GROUP SERVER INSTRUCTIONS ##############
+
     Step 1: Run the Group Server code either by pressing play or typing in the terminal the following command "python3 Group_Server.py"
 
     Step 2: Once the server is up and running, run the Client_Code in a new window by either pressing play or typing the following command in the terminal "python3 Client_Code.py" 

@@ -1,7 +1,14 @@
 # securedgroupfileservers
 Final project for Applied Cryptography course.
 
+
 YOU NEED TO GENERATE YOUR OWN CERTIFICATE FOR THE APP TO WORK.
+
+use san.caf and run the line below for loopback valid certificate
+
+	openssl req -x509 -nodes -days 730 -newkey rsa:2048 -keyout key.pem -out cert.pem -config san.cnf
+
+
 
 
 The system is somewhat secure.
